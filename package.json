@@ -1,0 +1,16 @@
+{
+  "name": "gql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc index.ts"
+  },
+  "devDependencies": {
+    "@types/graphql": "^14.0.7",
+    "@types/node": "^11.11.8",
+    "typescript": "^3.3.4000"
+  },
+  "dependencies": {
+    "graphql": "^14.1.1"
+  }
+}
