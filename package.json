@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "tsc index.ts"
+    "build": "tsc pp.ts"
   },
   "devDependencies": {
-    "@types/graphql": "^14.0.7",
-    "@types/node": "^11.11.8",
-    "typescript": "^3.3.4000"
+    "@types/graphql": "^14.2.0",
+    "@types/node": "^11.13.14",
+    "typescript": "^3.5.2"
   },
   "dependencies": {
-    "graphql": "^14.1.1"
+    "graphql": "^14.3.1"
   }
 }
